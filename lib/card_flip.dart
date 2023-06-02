@@ -143,6 +143,7 @@ class _CardflipState extends State<Cardflip> with SingleTickerProviderStateMixin
                                 height: 40,
                                 width: 260,
                                 child: Row(
+
                                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                                   children: [
                                     FloatingActionButton.small(
